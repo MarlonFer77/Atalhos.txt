@@ -12,6 +12,10 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialec
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 
+
+----------------------------------------------------------------------------------------------------------
+
+
 *Import Angular Material
 
 import { NgModule } from '@angular/core'
